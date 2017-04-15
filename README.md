@@ -14,7 +14,10 @@ Eclipse or other Java compilers
 ## Built With
 
 * JAVA
-* MVC DESIGN PATTERN
+* OBJECT ORIENTED PROGRAMMING
+* 5 different Java classes
+* Implementation, Extension
+* etc.
 
 ## Contributing
 
