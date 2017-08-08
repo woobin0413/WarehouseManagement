@@ -3,7 +3,9 @@ Analyzing data "To remove" or "To restock"
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Assume you are working on a new warehouse inventory management system named IMS. IMS will be responsible for the inventory tracking within physical, single site warehouses. IMS will track the named physical location of a product within the warehouse and the inventory level of each product. IMS will be deployed to busy warehouses supporting many pickers and restockers working with individual terminals and clients. Updates to inventory levels will be handled in real time to prevent pickers trying to pick a product that is out of stock.
+
+
 
 ### Prerequisites
 
